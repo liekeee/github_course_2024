@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 10 ripe bananas, mashed
 
 2 tbsp white miso
+=======
+0 ripe bananas, mashed
+>>>>>>> parent of 5992319 (fixed the conflict so that the first line of the ingredients.txt still reports 10 bananas, cut instead of mashed)
 
 1 cup white sugar
 
